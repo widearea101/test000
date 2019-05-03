@@ -1,2 +1,2 @@
 steps:
-- name: 'name'
+- name: 'gcr.io/cloud-builders/docker'
